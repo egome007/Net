@@ -13,8 +13,8 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 
 # Objectives:
 
-+ Evaluate machine learning models that analyze complex images to detect patterns in our housing image dataset in order to make accurate classification predictions.
-+ Develop and deploy a machine learning model that could read an image and classify the architecture style of a house.
++ Develop and deploy our social application in a timeley matter.
++ Better UX experience: users can get better social interaction in faster time.
 
 
 # Technology Overview
