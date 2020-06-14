@@ -21,22 +21,16 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
-|  Github      		| HTML, CSS, Javascript, Bootstrap							|
-|  Tensorflow.JS       	|TensorFlow open source platform was used to build the machine learning model  				|
-|  dupeGuru         	| dupeGuru, a cross-platform GUI tool, was used to find duplicate images,| 
-|  Chrome Extension     | Imageye - Image downloader chrome extension was used to download images,| 
-|  Python         	| Phython script was used to resize thousands of images,| 
-|  Python 		| Python Matplotlib was used to plot loss and accuracy for ML models,
-|  Website		| http://exmachinas.ml	|
+|  Github      		| HTML, CSS, Python, Bootstrap, 							|
+|  dupeGuru         	| dupeGuru, a cross-platform GUI tool, was used to find duplicate images,|  
+|  Website		| Pending	|
 |  AWS			| Amazon Simple Storage Service (S3) was the interface between the database and website
 |  AWS		        | Amazon Web Services (AWS) platform was used to deploy website|
 
 
 # Development Requirements		
-		
-+	Find a problem worth solving, analyzing, or visualizing. 
-+	Use machine learning (ML) in the context of techonologies learned.
-+	You must use: Scikit-Learn and/or another machone learning library. 
+		 
++	Use Python and Trello software management in the context of techonologies learned.
 +	Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data). 
 +	Save JPG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
 +	(Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions. 
