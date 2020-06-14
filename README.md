@@ -1,6 +1,6 @@
-# Net
+# Social Network Web Application Project
 
-# **Social Network App Project** ![Falcon](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pXGj83jifZBh4wOIVmD1EDnPfkZgO33KLDXjqh5QeQv4hTdS&usqp=CAU)
+# **Sociak Net** ![Falcon](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pXGj83jifZBh4wOIVmD1EDnPfkZgO33KLDXjqh5QeQv4hTdS&usqp=CAU)
 
 
 							by
