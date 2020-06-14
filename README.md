@@ -21,8 +21,7 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
-|  Github      		| HTML, CSS, Python, Bootstrap, 							|
-|  dupeGuru         	| dupeGuru, a cross-platform GUI tool, was used to find duplicate images,|  
+|  Github      		| HTML, CSS, Python, Bootstrap, 							|  
 |  Website		| Pending	|
 |  AWS			| Amazon Simple Storage Service (S3) was the interface between the database and website
 |  AWS		        | Amazon Web Services (AWS) platform was used to deploy website|
@@ -31,20 +30,16 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 # Development Requirements		
 		 
 +	Use Python and Trello software management in the context of techonologies learned.
-+	Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data). 
 +	Save JPG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
-+	(Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions. 
-+	Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots.
++	Will use at least one API, if you can find an API with data pertinent to your primary project scope. 
++	Create a write-up summarizing our team learning obejctive and lessons learned. 
 		
 # Presentation 	
 		
 +	15-minute project overview
-+	Questions we found interesting and what motivated our answer 
-+	Where and how we found the data and how we used this information to answer these questions
-+	The data exploration and cleanup process (accompanied by our Jupyter Notebooks)
-+	The analysis process (accompanied by your COLAB)
-+	Our conclusions, which should include a numerical summary and visualizations of that summary
-+	The implications of our findings: what do our findings mean?
-
++	Challenges we found interesting 
++	Where and how we found the technologies and how we used this information to acoomplish our tasks
++	The project exploration and building process (accompanied by our code)
++	Our conclusions, which should include a summary and visualizations
 
 
