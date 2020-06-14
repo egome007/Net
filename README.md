@@ -5,10 +5,10 @@
 
 							by
 							
-	          Ivy Chen, Ed Gomez, Carlos Quiroz, Maria Soria, Nehemias Vicente (in alphabetical order) 
+	                                Ed Gomez, Omar Nazarzai, Edgar Chavez 
 
 # PROJECT DESCRIPTION:
-The primary objective was to use machine learning (ML) in the context of technologies learned and apply it to solving a problem. The team decided on a classification approach to predict the architectural style of a house image. The model was developed using the following architectural style: Modern; Spanish; Tudor; Victorian.
+The primary objective of our project is to showcase our web application "SOCIAL NET" while using software management software (Trello). The team decided on building this application using python, flask, and sql to showcase crud operations.
 
 
 # Objectives:
