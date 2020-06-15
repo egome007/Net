@@ -8,7 +8,7 @@
 	                                Ed Gomez, Omar Nazarzai, Edgar Chavez 
 
 # CYB584 (Dr. Celly)
-# PROJECT DESCRIPTION:
+# Class Project Description:
 The primary objective of our project is to showcase our web application "SOCIAL NET" while using software management software (Trello). The team decided on building this application using python, flask, and sql to showcase crud operations.
 
 
