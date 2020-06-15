@@ -32,8 +32,8 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 		 
 +	Use Python and Trello software management in the context of techonologies learned.
 +	Save JPG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
-+	Will use at least one API, if you can find an API with data pertinent to your primary project scope. 
-+	Create a write-up summarizing our team learning obejctive and lessons learned. 
++	Will use at an API within project scope. 
++	Creation of a write-up summarizing our team learning obejctive and lessons learned. 
 		
 # Presentation 	
 		
@@ -41,6 +41,5 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 +	Challenges we found interesting 
 +	Where and how we found the technologies and how we used this information to acoomplish our tasks
 +	The project exploration and building process (accompanied by our code)
-+	Our conclusions, which should include a summary and visualizations
-
++	Our conclusions
 
