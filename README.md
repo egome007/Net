@@ -21,7 +21,7 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
-|  Github      		| HTML, CSS, Python, Bootstrap, 							|  
+|  Github      		| HTML, CSS, Python, Bootstrap							|  
 |  Website		| Pending	|
 |  AWS			| Amazon Simple Storage Service (S3) was the interface between the database and website
 |  AWS		        | Amazon Web Services (AWS) platform was used to deploy website|
