@@ -31,15 +31,15 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 # Development Requirements		
 		 
 +	Use Python and Trello software management in the context of techonologies learned.
-+	Save JPG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
++	Distribute demo presentation. 
 +	Will use at an API within project scope. 
 +	Creation of a write-up summarizing our team learning obejctive and lessons learned. 
 		
 # Presentation 	
 		
-+	15-minute project overview
-+	Challenges we found interesting 
-+	Where and how we found the technologies and how we used this information to acoomplish our tasks
-+	The project exploration and building process (accompanied by our code)
-+	Our conclusions
++	15-minute project overview.
++	Challenges we found interesting.
++	Where and how we found the technologies and how we used this information to acoomplish our tasks.
++	The project exploration and building process (accompanied by our code).
++	Our conclusions.
 
