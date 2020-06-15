@@ -1,4 +1,4 @@
-# Social Network Web Application Project
+# CYB584 Social Network Web Application Project
 
 # **Social Net** ![Falcon](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9pXGj83jifZBh4wOIVmD1EDnPfkZgO33KLDXjqh5QeQv4hTdS&usqp=CAU)
 
@@ -7,7 +7,7 @@
 							
 	                                Ed Gomez, Omar Nazarzai, Edgar Chavez 
 
-# CYB584 (Dr. Celly)
+
 # Class Project Description:
 The primary objective of our project is to showcase our web application "SOCIAL NET" while using software management software (Trello). The team decided on building this application using python, flask, and sql to showcase crud operations.
 
