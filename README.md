@@ -26,6 +26,7 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 |  Website		| Pending	|
 |  AWS			| Amazon Simple Storage Service (S3) was the interface between the database and website
 |  AWS		        | Amazon Web Services (AWS) platform was used to deploy website|
+| Flask; React		| Routes |
 
 
 # Development Requirements		
@@ -42,4 +43,5 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 +	Where and how we found the technologies and how we used this information to acoomplish our tasks.
 +	The project exploration and building process (accompanied by our code).
 +	Our conclusions.
+
 
