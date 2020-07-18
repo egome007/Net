@@ -31,7 +31,11 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 
 # Development Requirements		
 		 
-+	Use Python and Trello software management in the context of techonologies learned.
++	Roadmap (Milestone of project) Information detaling project
++       QA Test plan
++       Test report
++       SDS (Software Design Specification)
++       Use Python and Trello software management in the context of techonologies learned.
 +	Distribute demo presentation. 
 +	Will use at an API within project scope. 
 +	Creation of a write-up summarizing our team learning obejctive and lessons learned. 
