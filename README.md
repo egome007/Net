@@ -30,7 +30,7 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 
 
 # Development Requirements			 
-+	Roadmap (Milestone of project) Information detaling project
++       Roadmap (Milestone of project) Information detaling project
 +       QA Test plan
 +       Test report
 +       SDS (Software Design Specification)
