@@ -29,8 +29,7 @@ The primary objective of our project is to showcase our web application "SOCIAL 
 | Flask; React		| Routes |
 
 
-# Development Requirements		
-		 
+# Development Requirements			 
 +	Roadmap (Milestone of project) Information detaling project
 +       QA Test plan
 +       Test report
