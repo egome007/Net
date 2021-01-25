@@ -5,7 +5,7 @@
 
 							by
 							
-	                                Ed Gomez, Omar Nazarzai, Edgar Chavez 
+	                                              Ed Gomez
 
 
 # Class Project Description:
